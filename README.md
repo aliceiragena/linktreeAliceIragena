@@ -24,3 +24,26 @@ Auteur : Alice Iragena
 
 ---
 
+---
+
+## ⚡ Fonctionnalités
+
+✅ Affichage d’une photo de profil  
+✅ Présentation avec **nom** et **titre professionnel**  
+✅ Liste de liens interactifs :  
+   - **LinkedIn**
+   - **Portfolio Behance**
+   - **CV en PDF**  
+✅ Icônes cliquables vers les **réseaux sociaux** (Facebook, Twitter, YouTube)  
+✅ **Animations CSS** : effet fade-in, pulsation, mouvement de fond  
+
+---
+
+## 🎨 Aperçu du Design  
+
+🎨 Dégradé d’arrière-plan dynamique  
+🖼 Effet de flou et transparence sur les blocs  
+⚡ Animations fluides pour une expérience agréable  
+
+---
+
