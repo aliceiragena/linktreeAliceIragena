@@ -3,6 +3,9 @@
 ## 📌 Description
 
 Ce projet est un clone simplifié de **Linktree**, conçu en **HTML** et **CSS**. Il permet de centraliser plusieurs liens vers des plateformes professionnelles et réseaux sociaux sur une seule page personnalisée.  
+Ce projet est déployé sur Vercel. Vous pouvez le voir en ligne à l'adresse suivante : linktree-project-25zpk05ay-alice-iragenas-projects.vercel.app
+
+Auteur : Alice Iragena
 
 ### 🎯 Objectifs du projet :
 - Offrir une interface moderne et responsive.
