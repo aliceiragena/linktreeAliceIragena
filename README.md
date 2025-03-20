@@ -24,7 +24,6 @@ Auteur : Alice Iragena
 
 ---
 
----
 
 ## ⚡ Fonctionnalités
 
@@ -33,9 +32,11 @@ Auteur : Alice Iragena
 ✅ Liste de liens interactifs :  
    - **LinkedIn**
    - **Portfolio Behance**
-   - **CV en PDF**  
+   - **CV en PDF**
+
 ✅ Icônes cliquables vers les **réseaux sociaux** (Facebook, Twitter, YouTube)  
 ✅ **Animations CSS** : effet fade-in, pulsation, mouvement de fond
+
 ✅ **Micro-interactions** : effet slide-up, effet pulse, effet de zoom et ombrage
 
 ---
